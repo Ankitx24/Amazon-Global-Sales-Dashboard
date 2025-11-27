@@ -21,3 +21,8 @@ I recently worked on creating an interactive Amazon Global Sales Dashboard using
 💡 Tech Stack Used:
  Power BI | SQL | Excel | Data Cleaning | Data Visualization
 This project helped me strengthen my understanding of data modeling, DAX expressions, and dashboard storytelling — essential skills for a Data Analyst role.
+
+
+
+
+
